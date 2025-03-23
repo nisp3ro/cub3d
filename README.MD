@@ -1,4 +1,4 @@
-# Cub3D
+#  :suspect: Cub3D 125/100
 
 Cub3D is a 3D game project inspired by classic raycasting engines. It simulates a first-person view in a maze-like environment by casting rays from the player's position to determine visible walls, floors, and ceilings. This project implements a basic version of a raycasting engine using the MiniLibX (MLX) graphics library.
 
